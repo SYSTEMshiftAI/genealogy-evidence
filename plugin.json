@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "genealogy-evidence",
+  "version": "1.0.0",
+  "description": "Research family-history identities, parent-child relationships and vital events through cited evidence. Use for auditing inherited trees, comparing historical records, transcription, uncertain parentage, or preparing evidence cases.",
+  "author": {
+    "name": "SYSTEMshift",
+    "url": "https://systemshift.agency"
+  },
+  "homepage": "https://systemshift.agency",
+  "license": "SEE LICENSE IN README",
+  "keywords": [
+    "genealogy",
+    "family-history",
+    "evidence",
+    "research",
+    "citations"
+  ],
+  "repository": "https://github.com/SYSTEMshiftAI/genealogy-evidence"
+}
